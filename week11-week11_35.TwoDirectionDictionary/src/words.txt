@@ -1,0 +1,10 @@
+banana:banaani
+monkey:apina
+alla oleva:below
+below:alla oleva
+apina:monkey
+olut:beer
+banaani:banana
+beer:olut
+ohjelmointi:programming
+programming:ohjelmointi
